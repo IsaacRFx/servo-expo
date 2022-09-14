@@ -11,6 +11,6 @@ Los servos vienen en dos tipos:
 Un servo estándar para hobbies - el puntero se mueve 180 grados (90 grados en cada dirección desde cero grados).
 Un servo de rotación continua - el puntero se mueve una rotación completa como un motor DC. En lugar de indicarse un ángulo, se define una velocidad de movimiento donde 1.0 es toda velocidad hacia adelante, 0.5 la mitad de la velocidad hacia adelante, 0 detenido, -1 es toda velovidad en reversa con sus valores intermedios.
 
-### Servo demo - Circuitpython
+### Servo live demo - Circuitpython - Wowki
 
-![Servo demo](https://wokwi.com/projects/342100078704460371)
+[Servo demo](https://wokwi.com/projects/342100078704460371)
