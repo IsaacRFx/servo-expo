@@ -2,9 +2,7 @@
 
 ## Servo
 
-Para poder utilizar motores tipo servo, vamos a utilizar pulseio. En teoría uno puede realizar llamadas directas a pulseio para definir una frecuencia de 50 Hz y con eso definir el ancho de los pulsos. ¡Pero preferimos hacerlo un poco más elegante y sencillo!
-
-Así que en cambio, ¡vamos a utilizar adafruit_motor la cual te maneja los motores tipo servo de buena manera! adafruit_motor es una librería, ¡así que asegúrate de obtenerla del compilado de liberías si no lo has hecho! Si necesitas ayuda con la instalación puedes revisar la página de Librerías de CircuitPython.
+Un servomotor es un actuador rotativo o motor que permite un control preciso en términos de posición angular, aceleración y velocidad, capacidades que un motor normal no tiene. En definitiva, utiliza un motor normal y lo combina con un sensor para la retroalimentación de posición.
 
 Los servos vienen en dos tipos:
 
