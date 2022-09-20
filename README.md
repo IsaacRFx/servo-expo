@@ -4,6 +4,10 @@
 
 Un servomotor es un actuador rotativo o motor que permite un control preciso en términos de posición angular, aceleración y velocidad, capacidades que un motor normal no tiene. En definitiva, utiliza un motor normal y lo combina con un sensor para la retroalimentación de posición.
 
+Es un servomotor, aquel que contiene en su interior un encoder, conocido como decodificador, que convierte el movimiento mecánico (giros del eje) en pulsos digitales interpretados por un controlador de movimiento. También utilizan un driver, que en conjunto forman un circuito para comandar posición, torque y velocidad.
+
+![image](https://user-images.githubusercontent.com/81411699/191141213-82cdf2d3-ec8d-4db7-9df8-05af9feb9d0e.png)
+
 Los servos vienen en dos tipos:
 
 Un servo estándar para hobbies - el puntero se mueve 180 grados (90 grados en cada dirección desde cero grados).
