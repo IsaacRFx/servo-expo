@@ -1,6 +1,6 @@
 # SPBB22-Exposiciones de los sensores del Simulador
 
-## Servo
+![SERVO](https://images.cooltext.com/5620229.gif)
 
 Un servomotor es un actuador rotativo o motor que permite un control preciso en términos de posición angular, aceleración y velocidad, capacidades que un motor normal no tiene. En definitiva, utiliza un motor normal y lo combina con un sensor para la retroalimentación de posición.
 
