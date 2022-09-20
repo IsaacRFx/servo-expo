@@ -11,15 +11,7 @@ Los servos vienen en dos tipos:
 Un servo estándar para hobbies - el puntero se mueve 180 grados (90 grados en cada dirección desde cero grados).
 Un servo de rotación continua - el puntero se mueve una rotación completa como un motor DC. En lugar de indicarse un ángulo, se define una velocidad de movimiento donde 1.0 es toda velocidad hacia adelante, 0.5 la mitad de la velocidad hacia adelante, 0 detenido, -1 es toda velovidad en reversa con sus valores intermedios.
 
-```mermaid
-graph LR
-ROOT[PINS] --> A
-ROOT --> B
-ROOT --> C
-A[PWM] --> A2[Servo Control Signal]
-B[V+] --> B2[Positive voltage 5+]
-C[GND] --> C2[Ground]
-```
+![image](https://user-images.githubusercontent.com/81411699/191139491-6b0461f6-eb22-40f2-9cd8-c30fb9d0c56e.png)
 
 ### [Servo live demo](https://wokwi.com/projects/342100078704460371)
 
