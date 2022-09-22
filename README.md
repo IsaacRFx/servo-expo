@@ -15,6 +15,8 @@ Por otro lado, el codificador o encoder sirve como sensor, proporcionando retroa
 
 Hay varios tipos de servos como los que utilizan motores de corriente continua y detección de posiciones a través de un potenciómetro y también utilizan un control de gran potencia, lo que significa que el motor se mueve a la velocidad máxima hasta que se detiene en la posición designada.
 
+![image](https://user-images.githubusercontent.com/81411699/191632436-83dfd2cc-b08c-48b1-8ead-593afcd891dc.png)
+
 En cambio, los servos para uso industrial disponen de sensores de posición y velocidad, así como de algoritmos de control proporcional-integral-derivativo, lo que permite llevar el motor a su posición de forma rápida.
 
 Este tipo de dispositivos están disponibles en una gran variedad de tipos, formas y tamaños. El término servo fue utilizado por primera vez en 1859 por Joseph Facort, que implementó un mecanismo de retroalimentación para ayudar a controlar los timones de un barco con vapor.
